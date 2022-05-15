@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Teste Fred</title>
+      <description>O fred é um troxa</description>
+      <link>http://000pack.weebly.com/</link>
+     </item>
+  </channel>
+</rss>
